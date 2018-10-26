@@ -7,7 +7,7 @@ export default function Product(props){
 
             <div>
 
-            { props.makeThisShitWork}
+            { props.makeThisShizWork}
 
             </div>
             {/* <img src={props.photo}/>
